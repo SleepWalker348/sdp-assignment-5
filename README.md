@@ -58,6 +58,6 @@ The Smart Delivery & Route Optimization Engine is built around the Behavioral St
 - Manages automatic strategy resolution. It maps business context parameters (such as DeliveryPriority and user preferences) to the appropriate strategy instance, separating the responsibility of choosing a strategy from executing it.
 
 ### Example Console Output
-![img_2.png](img_2.png)
+![img_2.png](docs/img_2.png)
 ### Test Results
-![img_1.png](img_1.png)
+![img_1.png](docs/img_1.png)
